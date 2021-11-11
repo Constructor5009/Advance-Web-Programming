@@ -1,0 +1,7 @@
+D:\18578\ForEach\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\18578\ForEach\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\18578\ForEach\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\18578\ForEach\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\18578\ForEach\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\18578_.net\ForEach\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\18578_.net\ForEach\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
